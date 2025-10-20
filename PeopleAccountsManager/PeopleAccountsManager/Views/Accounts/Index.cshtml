@@ -1,0 +1,109 @@
+@model IEnumerable<PeopleAccountsManager.Models.Account>
+@{
+    ViewData["Title"] = "Accounts";
+    var personName = ViewData["PersonName"]?.ToString() ?? "Unknown";
+    var personId = (int)ViewData["PersonId"]!;
+}
+
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <div>
+        <h1>
+            <i class="bi bi-wallet2"></i> Accounts
+        </h1>
+        <p class="text-muted">
+            <i class="bi bi-person"></i> Person: <strong>@personName</strong>
+        </p>
+    </div>
+    <div>
+        <a asp-action="Create" asp-route-personId="@personId" class="btn btn-primary">
+            <i class="bi bi-plus-circle"></i> Add New Account
+        </a>
+        <a asp-controller="Persons" asp-action="Details" asp-route-id="@personId" class="btn btn-secondary">
+            <i class="bi bi-arrow-left"></i> Back to Person
+        </a>
+    </div>
+</div>
+
+<div class="table-responsive">
+    <table class="table table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>Account Number</th>
+                <th>Outstanding Balance</th>
+                <th>Status</th>
+                <th>Transactions</th>
+                <th style="width: 250px;">Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.Any())
+            {
+                @foreach (var account in Model)
+                {
+                    <tr>
+                        <td>@account.AccountNumber</td>
+                        <td class="@(account.OutstandingBalance < 0 ? "text-danger" : "text-success")">
+                            <strong>@account.OutstandingBalance.ToString("C")</strong>
+                        </td>
+                        <td>
+                            @if (account.IsClosed)
+                            {
+                                <span class="badge bg-danger">Closed</span>
+                            }
+                            else
+                            {
+                                <span class="badge bg-success">Open</span>
+                            }
+                        </td>
+                        <td>
+                            <span class="badge bg-info">@account.Transactions.Count</span>
+                        </td>
+                        <td>
+                            <a asp-action="Details" asp-route-id="@account.Code" class="btn btn-sm btn-info" title="View Details">
+                                <i class="bi bi-eye"></i>
+                            </a>
+                            <a asp-controller="Transactions" asp-action="Index" asp-route-accountId="@account.Code" 
+                               class="btn btn-sm btn-primary" title="View Transactions">
+                                <i class="bi bi-cash-stack"></i>
+                            </a>
+                            <a asp-action="Edit" asp-route-id="@account.Code" class="btn btn-sm btn-warning" title="Edit">
+                                <i class="bi bi-pencil"></i>
+                            </a>
+                            <a asp-action="Delete" asp-route-id="@account.Code" class="btn btn-sm btn-danger" title="Delete">
+                                <i class="bi bi-trash"></i>
+                            </a>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td colspan="5" class="text-center">
+                        <em>No accounts found for this person</em>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@if (Model.Any())
+{
+    <div class="card mt-3">
+        <div class="card-body">
+            <h5 class="card-title">Summary</h5>
+            <div class="row">
+                <div class="col-md-4">
+                    <strong>Total Accounts:</strong> @Model.Count()
+                </div>
+                <div class="col-md-4">
+                    <strong>Open Accounts:</strong> @Model.Count(a => !a.IsClosed)
+                </div>
+                <div class="col-md-4">
+                    <strong>Closed Accounts:</strong> @Model.Count(a => a.IsClosed)
+                </div>
+            </div>
+        </div>
+    </div>
+}

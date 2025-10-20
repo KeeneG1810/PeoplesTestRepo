@@ -1,0 +1,60 @@
+@model PeopleAccountsManager.Models.Transaction
+@{
+    ViewData["Title"] = "Transaction Details";
+}
+
+<h1>
+    <i class="bi bi-receipt"></i> Transaction Details
+</h1>
+
+<div class="card shadow">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">Account</dt>
+            <dd class="col-sm-9">
+                <a asp-controller="Accounts" asp-action="Details" asp-route-id="@Model.AccountCode">
+                    @Model.Account?.AccountNumber
+                </a>
+            </dd>
+            
+            <dt class="col-sm-3">Person</dt>
+            <dd class="col-sm-9">
+                <a asp-controller="Persons" asp-action="Details" asp-route-id="@Model.Account?.PersonCode">
+                    @Model.Account?.Person?.FullName
+                </a>
+            </dd>
+            
+            <dt class="col-sm-3">Transaction Date</dt>
+            <dd class="col-sm-9">@Model.TransactionDate.ToString("yyyy-MM-dd")</dd>
+            
+            <dt class="col-sm-3">Capture Date</dt>
+            <dd class="col-sm-9">@Model.CaptureDate.ToString("yyyy-MM-dd HH:mm:ss")</dd>
+            
+            <dt class="col-sm-3">Amount</dt>
+            <dd class="col-sm-9">
+                <span class="@(Model.Amount < 0 ? "text-danger" : "text-success")">
+                    <strong>@Model.Amount.ToString("C")</strong>
+                </span>
+                @if (Model.Amount > 0)
+                {
+                    <span class="badge bg-success">Credit</span>
+                }
+                else
+                {
+                    <span class="badge bg-danger">Debit</span>
+                }
+            </dd>
+            
+            <dt class="col-sm-3">Description</dt>
+            <dd class="col-sm-9">@Model.Description</dd>
+        </dl>
+    </div>
+    <div class="card-footer">
+        <a asp-action="Edit" asp-route-id="@Model.Code" class="btn btn-warning">
+            <i class="bi bi-pencil"></i> Edit
+        </a>
+        <a asp-action="Index" asp-route-accountId="@Model.AccountCode" class="btn btn-secondary">
+            <i class="bi bi-arrow-left"></i> Back to Transactions
+        </a>
+    </div>
+</div>

@@ -1,0 +1,815 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\transactions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\transactions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\transactions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\transactions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\transactions\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\transactions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\transactions\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\transactions\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\persons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\persons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\persons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\persons\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\persons\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\persons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\persons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\persons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\persons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\accounts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\accounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\accounts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\accounts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\accounts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\models\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\migrations\\20251020072741_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\migrations\\20251020072741_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|c:\\users\\itsap\\downloads\\peopleaccountsmanagerone (3)\\peopleaccountsmanagerone\\peopleaccountsmanager\\peopleaccountsmanager\\wwwroot\\css\\layoutcss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C42BCCC6-38A1-4819-AE74-E45178B1982D}|PeopleAccountsManager\\PeopleAccountsManager.csproj|solutionrelative:peopleaccountsmanager\\wwwroot\\css\\layoutcss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Program.cs",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Program.cs",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Program.cs",
+              "RelativeToolTip": "PeopleAccountsManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:44:31.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\appsettings.json",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\appsettings.json",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\appsettings.json",
+              "RelativeToolTip": "PeopleAccountsManager\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-20T09:44:29.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:44:26.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:44:24.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Transactions\\Index.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Transactions\\Index.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Transactions\\Index.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Transactions\\Index.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:44:18.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Transactions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Transactions\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Transactions\\Edit.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Transactions\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:44:16.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Transactions\\Details.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Transactions\\Details.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Transactions\\Details.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Transactions\\Details.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:44:15.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Transactions\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Transactions\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Transactions\\Delete.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Transactions\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:44:13.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Transactions\\Create.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Transactions\\Create.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Transactions\\Create.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Transactions\\Create.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:44:10.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:44:06.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:44:05.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:43:56.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Persons\\Index.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Persons\\Index.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Persons\\Index.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Persons\\Index.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:43:43.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Persons\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Persons\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Persons\\Edit.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Persons\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:43:41.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Persons\\Details.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Persons\\Details.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Persons\\Details.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Persons\\Details.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:43:38.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Persons\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Persons\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Persons\\Delete.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Persons\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:43:36.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Persons\\Create.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Persons\\Create.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Persons\\Create.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Persons\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:43:34.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:43:30.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:43:27.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:43:24.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:43:22.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Accounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Accounts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Accounts\\Index.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Accounts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:43:13.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Accounts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Accounts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Accounts\\Edit.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Accounts\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:43:11.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Accounts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Accounts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Accounts\\Delete.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Accounts\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:43:10.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Accounts\\Details.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Accounts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Accounts\\Details.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Accounts\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:43:09.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Accounts\\Create.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Accounts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Accounts\\Create.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Accounts\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:43:08.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Account\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Account\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Account\\SignUp.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Account\\SignUp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:43:03.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:43:01.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "PeopleAccountsManager\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:42:59.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Models\\Users.cs",
+              "RelativeToolTip": "PeopleAccountsManager\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:42:49.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Models\\Transaction.cs",
+              "RelativeToolTip": "PeopleAccountsManager\\Models\\Transaction.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:42:25.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SignUpViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Models\\SignUpViewModel.cs",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Models\\SignUpViewModel.cs",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Models\\SignUpViewModel.cs",
+              "RelativeToolTip": "PeopleAccountsManager\\Models\\SignUpViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:42:23.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Models\\Person.cs",
+              "RelativeToolTip": "PeopleAccountsManager\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:41:57.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "PeopleAccountsManager\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:41:40.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PeopleAccountsManager\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:41:39.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "PeopleAccountsManager\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:41:23.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Models\\Account.cs",
+              "RelativeToolTip": "PeopleAccountsManager\\Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:40:58.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "PeopleAccountsManager\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:40:53.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20251020072741_First.cs",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Migrations\\20251020072741_First.cs",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Migrations\\20251020072741_First.cs",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Migrations\\20251020072741_First.cs",
+              "RelativeToolTip": "PeopleAccountsManager\\Migrations\\20251020072741_First.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:40:52.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "PeopleAccountsManager\\Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAAFcBAAAAAAAAAAAYwHkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:39:35.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PersonsController.cs",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Controllers\\PersonsController.cs",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Controllers\\PersonsController.cs",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Controllers\\PersonsController.cs",
+              "RelativeToolTip": "PeopleAccountsManager\\Controllers\\PersonsController.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAAwAkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:38:35.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PeopleAccountsManager\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:38:32.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "PeopleAccountsManager\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAAwCwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:37:22.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PeopleAccountsManager\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T09:36:40.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "PeopleAccountsManager\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-20T09:36:22.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PeopleAccountsManager\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-20T09:36:20.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "layoutcss.css",
+              "DocumentMoniker": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\wwwroot\\css\\layoutcss.css",
+              "RelativeDocumentMoniker": "PeopleAccountsManager\\wwwroot\\css\\layoutcss.css",
+              "ToolTip": "C:\\Users\\itsap\\Downloads\\PeopleAccountsManagerOne (3)\\PeopleAccountsManagerOne\\PeopleAccountsManager\\PeopleAccountsManager\\wwwroot\\css\\layoutcss.css",
+              "RelativeToolTip": "PeopleAccountsManager\\wwwroot\\css\\layoutcss.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-20T09:36:19.365Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 471,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

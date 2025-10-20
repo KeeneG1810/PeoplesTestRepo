@@ -1,0 +1,92 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to People Accounts Manager</h1>
+    <p class="lead">A comprehensive solution for managing people, accounts, and financial transactions.</p>
+</div>
+
+<div class="row mt-5">
+    <div class="col-md-4">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h5 class="card-title">
+                    <i class="bi bi-people"></i> Manage Persons
+                </h5>
+                <p class="card-text">
+                    Create, view, edit, and manage person records with unique identification numbers.
+                </p>
+                @if (User.Identity?.IsAuthenticated == true)
+                {
+                    <a asp-controller="Persons" asp-action="Index" class="btn btn-primary">View Persons</a>
+                }
+                else
+                {
+                    <a asp-controller="Account" asp-action="Login" class="btn btn-secondary">Login to Access</a>
+                }
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-4">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h5 class="card-title">
+                    <i class="bi bi-wallet2"></i> Manage Accounts
+                </h5>
+                <p class="card-text">
+                    Track financial accounts with real-time balance calculations and account status.
+                </p>
+                @if (User.Identity?.IsAuthenticated == true)
+                {
+                    <a asp-controller="Persons" asp-action="Index" class="btn btn-primary">View Accounts</a>
+                }
+                else
+                {
+                    <a asp-controller="Account" asp-action="Login" class="btn btn-secondary">Login to Access</a>
+                }
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-md-4">
+        <div class="card shadow-sm">
+            <div class="card-body">
+                <h5 class="card-title">
+                    <i class="bi bi-cash-stack"></i> Track Transactions
+                </h5>
+                <p class="card-text">
+                    Record and monitor all financial transactions with automatic balance updates.
+                </p>
+                @if (User.Identity?.IsAuthenticated == true)
+                {
+                    <a asp-controller="Persons" asp-action="Index" class="btn btn-primary">View Transactions</a>
+                }
+                else
+                {
+                    <a asp-controller="Account" asp-action="Login" class="btn btn-secondary">Login to Access</a>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-5">
+    <div class="col-md-12">
+        <div class="card bg-light">
+            <div class="card-body">
+                <h3>Features</h3>
+                <ul class="list-unstyled">
+                    <li><i class="bi bi-check-circle-fill text-success"></i> Secure login system</li>
+                    <li><i class="bi bi-check-circle-fill text-success"></i> Comprehensive person management with search and pagination</li>
+                    <li><i class="bi bi-check-circle-fill text-success"></i> Multiple accounts per person</li>
+                    <li><i class="bi bi-check-circle-fill text-success"></i> Automatic balance calculation from transactions</li>
+                    <li><i class="bi bi-check-circle-fill text-success"></i> Transaction history with date tracking</li>
+                    <li><i class="bi bi-check-circle-fill text-success"></i> Data validation and error handling</li>
+                    <li><i class="bi bi-check-circle-fill text-success"></i> Responsive Bootstrap 5 design</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

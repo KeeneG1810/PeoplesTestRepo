@@ -1,0 +1,61 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using PeopleAccountsManager.Models;
+using System.Diagnostics;
+
+namespace PeopleAccountsManager.Controllers
+{
+    /// <summary>
+    /// Home controller - handles main navigation pages
+    /// Accessible to all users (authenticated or not)
+    /// </summary>
+    public class HomeController : Controller
+    {
+        private readonly ILogger<HomeController> _logger;
+
+        public HomeController(ILogger<HomeController> logger)
+        {
+            _logger = logger;
+        }
+
+        /// <summary>
+        /// Display the home page with welcome message
+        /// </summary>
+        public IActionResult Index()
+        {
+            return View();
+        }
+
+        /// <summary>
+        /// Display the About page
+        /// </summary>
+        public IActionResult About()
+        {
+            return View();
+        }
+
+        /// <summary>
+        /// Display the Contact page
+        /// </summary>
+        public IActionResult Contact()
+        {
+            return View();
+        }
+
+        /// <summary>
+        /// Display Privacy policy page
+        /// </summary>
+        public IActionResult Privacy()
+        {
+            return View();
+        }
+
+        /// <summary>
+        /// Error page handler
+        /// </summary>
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        public IActionResult Error()
+        {
+            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+    }
+}

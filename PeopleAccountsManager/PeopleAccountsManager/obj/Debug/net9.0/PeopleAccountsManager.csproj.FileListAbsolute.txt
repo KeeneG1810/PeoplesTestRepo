@@ -1,0 +1,924 @@
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\appsettings.json
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.staticwebassets.runtime.json
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.staticwebassets.endpoints.json
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.exe
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.deps.json
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.runtimeconfig.json
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.pdb
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Humanizer.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.csproj.AssemblyReference.cache
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.AssemblyInfoInputs.cache
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.AssemblyInfo.cs
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.csproj.CoreCompileInputs.cache
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.RazorAssemblyInfo.cache
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.RazorAssemblyInfo.cs
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\scopedcss\bundle\PeopleAccountsManager.styles.css
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\scopedcss\projectbundle\PeopleAccountsManager.bundle.scp.css
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\wvlybiikjk-b9sayid5wm.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\00rhejrk3s-61n19gt1b8.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\fyv1eq4qy1-xtxxf3hu2r.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\tsskqrw0u9-bqjiyaj88i.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\46qv0h8816-c2jlpeoesf.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\aut6c67tbh-erw9l3u2r3.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\t81ej1jf8s-aexeepp0ev.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\0ocgigz29p-d7shbmvgxk.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\lrg7lgz46m-ausgxo2sd3.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\8nznvolh8o-k8d9w2qqmf.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\rmlvaztznl-cosvhxvwiu.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\lbed06pzf0-ub07r2b239.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\2ha6cvgtrk-fvhpjtyr6v.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\wbi2coqdeg-b7pk76d08c.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\75llh3lrqd-fsbi9cje9m.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\ybjy6nbtad-rzd6atqjts.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\5a0gxvkyde-ee0r1s7dh0.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\dh9gu367wo-dxx9fxp4il.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\xr7m3c2z7r-jd9uben2k1.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\le8837hrlj-khv3u5hwcm.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\u9nv18fyom-r4e9w2rdcm.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\8qgou70srf-lcd1t2u6c8.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\sptsh7rmq9-c2oey78nd0.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\2rmq5to5ox-tdbxkamptv.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\vpvd3oun49-j5mq2jizvt.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\ywc7eerb3w-06098lyss8.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\1k8i0vqpld-nvvlpmu67g.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\2mij841g31-s35ty4nyc5.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\c8qljq0v4o-pj5nd1wqec.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\pxftcb3hv3-46ein0sx1k.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\sy0jipi3kp-v0zj4ognzu.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\b06sr4v5wa-37tfw0ft22.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\qpca3f81j1-hrwsygsryq.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\w0uji5k30m-pk9g2wxc8p.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\l1k9uanldi-ft3s53vfgj.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\2cabux7td8-6cfz1n2cew.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\gch0rhx8kc-6pdc2jztkx.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\qjr6rppabb-493y06b0oq.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\nwo329sdmo-iovd86k7lj.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\g3whof1yex-vr1egmr9el.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\e9awme227t-kbrnm935zg.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\jw2weqyr9e-jj8uyg4cgr.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\k37gm21anr-y7v9cxd14o.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\rybeo5tvor-notf2xhcfb.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\wkotv2etw2-h1s4sie4z3.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\y6ysm8tbp5-63fj8s7r0e.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\pphm1x43b8-0j3bgjxly4.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\niwsvk2fhb-47otxtyo56.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\c5sv2lnoy4-4v8eqarkd7.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\o4clx11pxn-356vix0kms.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\j9g8d5y0v1-83jwlth58m.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\1diges9lki-mrlpezrjn3.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\foyj9e3m48-lzl9nlhx6b.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\0inerbbb7c-ag7o75518u.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\72ta6a0ge0-x0q3zqp4vz.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\ehv20zvkfs-0i3buxo5is.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\uet9taodqs-o1o13a6vjx.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\bp5y2gp6sm-ttgo8qnofa.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\xi8223q4x6-2z0ns9nrw6.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\yopx5lpz8a-muycvpuwrr.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\w7e77a3fv7-87fc7y1x7t.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\4zao13gut8-mlv21k5csn.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\4ymqfm7aaf-b4f88rf722.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\yhwxx6awwx-b4f88rf722.gz
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAc.D07B3395.Up2Date
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\refint\PeopleAccountsManager.dll
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.pdb
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.genruntimeconfig.cache
+C:\Users\keene\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\ref\PeopleAccountsManager.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\appsettings.json
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.staticwebassets.endpoints.json
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.staticwebassets.runtime.json
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.exe
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.deps.json
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.runtimeconfig.json
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.pdb
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Humanizer.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.csproj.AssemblyReference.cache
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.AssemblyInfoInputs.cache
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.AssemblyInfo.cs
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.csproj.CoreCompileInputs.cache
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.RazorAssemblyInfo.cache
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.RazorAssemblyInfo.cs
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\scopedcss\bundle\PeopleAccountsManager.styles.css
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\scopedcss\projectbundle\PeopleAccountsManager.bundle.scp.css
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\wvlybiikjk-b9sayid5wm.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\00rhejrk3s-61n19gt1b8.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\fyv1eq4qy1-xtxxf3hu2r.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\tsskqrw0u9-bqjiyaj88i.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\46qv0h8816-c2jlpeoesf.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\aut6c67tbh-erw9l3u2r3.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\t81ej1jf8s-aexeepp0ev.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\0ocgigz29p-d7shbmvgxk.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\lrg7lgz46m-ausgxo2sd3.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\8nznvolh8o-k8d9w2qqmf.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\rmlvaztznl-cosvhxvwiu.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\lbed06pzf0-ub07r2b239.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\2ha6cvgtrk-fvhpjtyr6v.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\wbi2coqdeg-b7pk76d08c.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\75llh3lrqd-fsbi9cje9m.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\ybjy6nbtad-rzd6atqjts.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\5a0gxvkyde-ee0r1s7dh0.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\dh9gu367wo-dxx9fxp4il.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\xr7m3c2z7r-jd9uben2k1.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\le8837hrlj-khv3u5hwcm.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\u9nv18fyom-r4e9w2rdcm.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\8qgou70srf-lcd1t2u6c8.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\sptsh7rmq9-c2oey78nd0.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\2rmq5to5ox-tdbxkamptv.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\vpvd3oun49-j5mq2jizvt.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\ywc7eerb3w-06098lyss8.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\1k8i0vqpld-nvvlpmu67g.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\2mij841g31-s35ty4nyc5.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\c8qljq0v4o-pj5nd1wqec.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\pxftcb3hv3-46ein0sx1k.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\sy0jipi3kp-v0zj4ognzu.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\b06sr4v5wa-37tfw0ft22.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\qpca3f81j1-hrwsygsryq.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\w0uji5k30m-pk9g2wxc8p.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\l1k9uanldi-ft3s53vfgj.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\2cabux7td8-6cfz1n2cew.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\gch0rhx8kc-6pdc2jztkx.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\qjr6rppabb-493y06b0oq.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\nwo329sdmo-iovd86k7lj.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\g3whof1yex-vr1egmr9el.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\e9awme227t-kbrnm935zg.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\jw2weqyr9e-jj8uyg4cgr.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\k37gm21anr-y7v9cxd14o.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\rybeo5tvor-notf2xhcfb.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\wkotv2etw2-h1s4sie4z3.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\y6ysm8tbp5-63fj8s7r0e.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\pphm1x43b8-0j3bgjxly4.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\niwsvk2fhb-47otxtyo56.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\c5sv2lnoy4-4v8eqarkd7.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\o4clx11pxn-356vix0kms.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\j9g8d5y0v1-83jwlth58m.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\1diges9lki-mrlpezrjn3.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\foyj9e3m48-lzl9nlhx6b.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\0inerbbb7c-ag7o75518u.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\72ta6a0ge0-x0q3zqp4vz.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\ehv20zvkfs-0i3buxo5is.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\uet9taodqs-o1o13a6vjx.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\bp5y2gp6sm-ttgo8qnofa.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\xi8223q4x6-2z0ns9nrw6.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\yopx5lpz8a-muycvpuwrr.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\w7e77a3fv7-87fc7y1x7t.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\4zao13gut8-mlv21k5csn.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\4ymqfm7aaf-b4f88rf722.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\yhwxx6awwx-b4f88rf722.gz
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAc.D07B3395.Up2Date
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\refint\PeopleAccountsManager.dll
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.pdb
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.genruntimeconfig.cache
+C:\Users\keene\OneDrive\Desktop\TRAQ\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\ref\PeopleAccountsManager.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\appsettings.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.staticwebassets.runtime.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.staticwebassets.endpoints.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.exe
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.deps.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.runtimeconfig.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.pdb
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Humanizer.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.csproj.AssemblyReference.cache
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.AssemblyInfoInputs.cache
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.AssemblyInfo.cs
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.csproj.CoreCompileInputs.cache
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.RazorAssemblyInfo.cache
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.RazorAssemblyInfo.cs
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\scopedcss\bundle\PeopleAccountsManager.styles.css
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\scopedcss\projectbundle\PeopleAccountsManager.bundle.scp.css
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\wvlybiikjk-b9sayid5wm.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\00rhejrk3s-61n19gt1b8.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\tsskqrw0u9-bqjiyaj88i.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\46qv0h8816-c2jlpeoesf.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\aut6c67tbh-erw9l3u2r3.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\t81ej1jf8s-aexeepp0ev.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\0ocgigz29p-d7shbmvgxk.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\lrg7lgz46m-ausgxo2sd3.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\8nznvolh8o-k8d9w2qqmf.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\rmlvaztznl-cosvhxvwiu.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\lbed06pzf0-ub07r2b239.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\2ha6cvgtrk-fvhpjtyr6v.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\wbi2coqdeg-b7pk76d08c.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\75llh3lrqd-fsbi9cje9m.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\ybjy6nbtad-rzd6atqjts.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\5a0gxvkyde-ee0r1s7dh0.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\dh9gu367wo-dxx9fxp4il.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\xr7m3c2z7r-jd9uben2k1.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\le8837hrlj-khv3u5hwcm.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\u9nv18fyom-r4e9w2rdcm.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\8qgou70srf-lcd1t2u6c8.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\sptsh7rmq9-c2oey78nd0.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\2rmq5to5ox-tdbxkamptv.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\vpvd3oun49-j5mq2jizvt.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\ywc7eerb3w-06098lyss8.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\1k8i0vqpld-nvvlpmu67g.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\2mij841g31-s35ty4nyc5.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\c8qljq0v4o-pj5nd1wqec.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\pxftcb3hv3-46ein0sx1k.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\sy0jipi3kp-v0zj4ognzu.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\b06sr4v5wa-37tfw0ft22.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\qpca3f81j1-hrwsygsryq.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\w0uji5k30m-pk9g2wxc8p.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\l1k9uanldi-ft3s53vfgj.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\2cabux7td8-6cfz1n2cew.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\gch0rhx8kc-6pdc2jztkx.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\qjr6rppabb-493y06b0oq.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\nwo329sdmo-iovd86k7lj.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\g3whof1yex-vr1egmr9el.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\e9awme227t-kbrnm935zg.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\jw2weqyr9e-jj8uyg4cgr.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\k37gm21anr-y7v9cxd14o.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\rybeo5tvor-notf2xhcfb.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\wkotv2etw2-h1s4sie4z3.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\y6ysm8tbp5-63fj8s7r0e.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\pphm1x43b8-0j3bgjxly4.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\niwsvk2fhb-47otxtyo56.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\c5sv2lnoy4-4v8eqarkd7.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\o4clx11pxn-356vix0kms.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\j9g8d5y0v1-83jwlth58m.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\1diges9lki-mrlpezrjn3.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\foyj9e3m48-lzl9nlhx6b.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\0inerbbb7c-ag7o75518u.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\72ta6a0ge0-x0q3zqp4vz.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\ehv20zvkfs-0i3buxo5is.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\uet9taodqs-o1o13a6vjx.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\bp5y2gp6sm-ttgo8qnofa.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\xi8223q4x6-2z0ns9nrw6.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\yopx5lpz8a-muycvpuwrr.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\w7e77a3fv7-87fc7y1x7t.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\4zao13gut8-mlv21k5csn.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\4ymqfm7aaf-b4f88rf722.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\yhwxx6awwx-b4f88rf722.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAc.D07B3395.Up2Date
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\refint\PeopleAccountsManager.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.pdb
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.genruntimeconfig.cache
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\ref\PeopleAccountsManager.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\8dncbloxwz-5ipweew5fc.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\fyv1eq4qy1-f406la2xxo.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\8aihw4fr98-840kt14ipg.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\appsettings.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.staticwebassets.runtime.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.staticwebassets.endpoints.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.exe
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.deps.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.runtimeconfig.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\PeopleAccountsManager.pdb
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Humanizer.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.csproj.AssemblyReference.cache
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.AssemblyInfoInputs.cache
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.AssemblyInfo.cs
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.csproj.CoreCompileInputs.cache
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.RazorAssemblyInfo.cache
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.RazorAssemblyInfo.cs
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\scopedcss\bundle\PeopleAccountsManager.styles.css
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\scopedcss\projectbundle\PeopleAccountsManager.bundle.scp.css
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\8aihw4fr98-840kt14ipg.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\wvlybiikjk-b9sayid5wm.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\8dncbloxwz-5ipweew5fc.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\00rhejrk3s-61n19gt1b8.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\fyv1eq4qy1-f406la2xxo.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\tsskqrw0u9-bqjiyaj88i.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\46qv0h8816-c2jlpeoesf.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\aut6c67tbh-erw9l3u2r3.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\t81ej1jf8s-aexeepp0ev.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\0ocgigz29p-d7shbmvgxk.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\lrg7lgz46m-ausgxo2sd3.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\8nznvolh8o-k8d9w2qqmf.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\rmlvaztznl-cosvhxvwiu.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\lbed06pzf0-ub07r2b239.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\2ha6cvgtrk-fvhpjtyr6v.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\wbi2coqdeg-b7pk76d08c.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\75llh3lrqd-fsbi9cje9m.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\ybjy6nbtad-rzd6atqjts.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\5a0gxvkyde-ee0r1s7dh0.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\dh9gu367wo-dxx9fxp4il.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\xr7m3c2z7r-jd9uben2k1.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\le8837hrlj-khv3u5hwcm.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\u9nv18fyom-r4e9w2rdcm.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\8qgou70srf-lcd1t2u6c8.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\sptsh7rmq9-c2oey78nd0.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\2rmq5to5ox-tdbxkamptv.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\vpvd3oun49-j5mq2jizvt.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\ywc7eerb3w-06098lyss8.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\1k8i0vqpld-nvvlpmu67g.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\2mij841g31-s35ty4nyc5.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\c8qljq0v4o-pj5nd1wqec.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\pxftcb3hv3-46ein0sx1k.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\sy0jipi3kp-v0zj4ognzu.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\b06sr4v5wa-37tfw0ft22.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\qpca3f81j1-hrwsygsryq.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\w0uji5k30m-pk9g2wxc8p.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\l1k9uanldi-ft3s53vfgj.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\2cabux7td8-6cfz1n2cew.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\gch0rhx8kc-6pdc2jztkx.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\qjr6rppabb-493y06b0oq.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\nwo329sdmo-iovd86k7lj.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\g3whof1yex-vr1egmr9el.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\e9awme227t-kbrnm935zg.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\jw2weqyr9e-jj8uyg4cgr.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\k37gm21anr-y7v9cxd14o.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\rybeo5tvor-notf2xhcfb.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\wkotv2etw2-h1s4sie4z3.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\y6ysm8tbp5-63fj8s7r0e.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\pphm1x43b8-0j3bgjxly4.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\niwsvk2fhb-47otxtyo56.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\c5sv2lnoy4-4v8eqarkd7.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\o4clx11pxn-356vix0kms.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\j9g8d5y0v1-83jwlth58m.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\1diges9lki-mrlpezrjn3.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\foyj9e3m48-lzl9nlhx6b.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\0inerbbb7c-ag7o75518u.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\72ta6a0ge0-x0q3zqp4vz.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\ehv20zvkfs-0i3buxo5is.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\uet9taodqs-o1o13a6vjx.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\bp5y2gp6sm-ttgo8qnofa.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\xi8223q4x6-2z0ns9nrw6.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\yopx5lpz8a-muycvpuwrr.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\w7e77a3fv7-87fc7y1x7t.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\4zao13gut8-mlv21k5csn.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\4ymqfm7aaf-b4f88rf722.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\compressed\yhwxx6awwx-b4f88rf722.gz
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAc.D07B3395.Up2Date
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\refint\PeopleAccountsManager.dll
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.pdb
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\PeopleAccountsManager.genruntimeconfig.cache
+C:\Users\itsap\Downloads\PeopleAccountsManagerOne (3)\PeopleAccountsManagerOne\PeopleAccountsManager\PeopleAccountsManager\obj\Debug\net9.0\ref\PeopleAccountsManager.dll
